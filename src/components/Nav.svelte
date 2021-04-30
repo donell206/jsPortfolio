@@ -6,11 +6,15 @@
 	nav {
 		border-bottom: 10px solid rgba(41, 43, 41, 0.568);
 		font-weight: 300;
-		
+
 		color:white;
 		padding: 0 1em;
 		background-color: rgba(25, 24, 26, 0.822);
-		
+
+	}
+
+	p{
+
 	}
 
 	ul {
@@ -28,7 +32,7 @@
 	li {
 		display: block;
 		float: left;
-	
+
 	}
 
 	[aria-current] {
