@@ -1,0 +1,3 @@
+[submodule "blog/jsPortfolio"] 
+  path = blog/jsPortfolio 
+  url = https://github.com/donell206/newPortfolio

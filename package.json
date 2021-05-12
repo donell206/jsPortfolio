@@ -3,7 +3,6 @@
   "description": "TODO",
   "version": "0.0.1",
   "scripts": {
-    "start": "node index.js",
     "dev": "sapper dev",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
@@ -11,7 +10,6 @@
   },
   "dependencies": {
     "compression": "^1.7.1",
-    "lorem-ipsum": "^2.0.3",
     "polka": "next",
     "sirv": "^1.0.0"
   },

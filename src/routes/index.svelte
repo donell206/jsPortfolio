@@ -35,7 +35,6 @@
 			font-size: 4em;
 		}
 	}
-	
 </style>
 
 <head>
@@ -58,10 +57,6 @@
 <h2>C# OPDRACHTS</h2>
 <p><a href="https://github.com/donell206/CollectionsOefeningen">CollectionsOefeningen</a></p>
 <p><a href="https://github.com/donell206/ListBigger">ListBigger</a></p>
-<p><a href="https://github.com/donell206/ProductLibrary">ProductLibrary</a></p>
-<p><a href="https://github.com/donell206/Caravan-Excercise">Caravan-Excercise</a></p>
-
-
 
 
 
